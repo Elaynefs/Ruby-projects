@@ -15,4 +15,6 @@ To run all tests from the folder spec/merchant:
 
 To verify coverage
 
-    file:///Users/eferreir/galaxyproject/Ruby-projects/coverage/index.html#_AllFiles 
+    Execute: bundle exec rspec
+
+    Access: .../Ruby-projects/coverage/index.html
